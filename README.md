@@ -71,5 +71,6 @@ I actively practice DSA, backend concepts, and system fundamentals across platfo
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/lakshyagupta8383/lakshyagupta8383/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lakshyagupta8383/lakshyagupta8383/output/snake.svg" alt="Snake animation" />
+
 
